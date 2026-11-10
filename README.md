@@ -112,7 +112,7 @@ _internal/
 - 角色灵感：**BanG Dream! 梦限大 MewType** 的千石由乃、宫永野乃花
 - 引擎：Python + pygame
 - 打包：PyInstaller
-- 制作：Waters-River（DSH 辅助）
+- 制作：DSH 辅助
 
 本作是非商业同人 fan game，与 Bushiroad / Craft Egg 无隶属关系。  
 不使用官方素材；角色版权归原权利方所有。
